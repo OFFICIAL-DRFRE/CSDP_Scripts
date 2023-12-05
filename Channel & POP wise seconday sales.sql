@@ -2,7 +2,7 @@ use Centegy_SnDPro_UET
 go
 
 Declare @datefr date ='01-Jan-2021'
-Declare @dateto date ='30-Jun-2023'
+Declare @dateto date ='31-Jul-2023'
 
 select 
 	T.ldesc Territory, 
